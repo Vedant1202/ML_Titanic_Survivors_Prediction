@@ -1,418 +1,418 @@
-Index,Survived
-0,0
-1,0
-2,0
-3,0
-4,1
-5,0
-6,1
-7,0
-8,1
-9,0
-10,0
-11,0
-12,1
-13,0
-14,1
-15,1
-16,0
-17,0
-18,1
-19,1
-20,0
-21,0
-22,1
-23,1
-24,1
-25,0
-26,1
-27,0
-28,0
-29,0
-30,0
-31,0
-32,0
-33,1
-34,0
-35,0
-36,1
-37,1
-38,0
-39,0
-40,0
-41,0
-42,0
-43,1
-44,1
-45,0
-46,0
-47,0
-48,1
-49,1
-50,0
-51,0
-52,1
-53,1
-54,0
-55,0
-56,0
-57,0
-58,0
-59,1
-60,0
-61,0
-62,0
-63,1
-64,1
-65,1
-66,1
-67,0
-68,0
-69,1
-70,1
-71,0
-72,1
-73,0
-74,1
-75,1
-76,0
-77,1
-78,0
-79,1
-80,0
-81,0
-82,0
-83,0
-84,0
-85,0
-86,1
-87,1
-88,1
-89,0
-90,1
-91,0
-92,1
-93,0
-94,1
-95,0
-96,1
-97,0
-98,1
-99,0
-100,1
-101,0
-102,0
-103,0
-104,1
-105,0
-106,0
-107,0
-108,0
-109,0
-110,0
-111,1
-112,1
-113,1
-114,1
-115,0
-116,0
-117,1
-118,0
-119,1
-120,1
-121,0
-122,1
-123,0
-124,0
-125,1
-126,0
-127,1
-128,0
-129,0
-130,0
-131,0
-132,1
-133,0
-134,0
-135,0
-136,0
-137,0
-138,1
-139,0
-140,0
-141,1
-142,0
-143,0
-144,0
-145,0
-146,0
-147,0
-148,0
-149,0
-150,1
-151,0
-152,1
-153,0
-154,0
-155,1
-156,1
-157,0
-158,1
-159,1
-160,0
-161,1
-162,0
-163,0
-164,1
-165,0
-166,0
-167,1
-168,1
-169,0
-170,0
-171,0
-172,0
-173,0
-174,1
-175,1
-176,0
-177,1
-178,1
-179,0
-180,0
-181,1
-182,0
-183,1
-184,0
-185,1
-186,0
-187,0
-188,0
-189,0
-190,0
-191,0
-192,0
-193,0
-194,0
-195,1
-196,1
-197,0
-198,1
-199,1
-200,0
-201,1
-202,1
-203,0
-204,0
-205,1
-206,0
-207,1
-208,0
-209,0
-210,0
-211,0
-212,1
-213,0
-214,0
-215,1
-216,0
-217,1
-218,0
-219,1
-220,0
-221,1
-222,0
-223,1
-224,1
-225,0
-226,1
-227,0
-228,0
-229,0
-230,1
-231,0
-232,0
-233,0
-234,0
-235,0
-236,0
-237,1
-238,1
-239,1
-240,1
-241,0
-242,0
-243,0
-244,0
-245,1
-246,0
-247,1
-248,1
-249,1
-250,0
-251,1
-252,0
-253,0
-254,0
-255,0
-256,0
-257,1
-258,0
-259,0
-260,0
-261,1
-262,1
-263,0
-264,0
-265,0
-266,0
-267,1
-268,0
-269,0
-270,0
-271,1
-272,1
-273,0
-274,1
-275,0
-276,0
-277,0
-278,0
-279,1
-280,0
-281,1
-282,1
-283,1
-284,0
-285,0
-286,0
-287,0
-288,0
-289,0
-290,1
-291,0
-292,0
-293,0
-294,0
-295,1
-296,0
-297,0
-298,0
-299,0
-300,0
-301,0
-302,0
-303,1
-304,1
-305,0
-306,0
-307,0
-308,0
-309,0
-310,0
-311,0
-312,1
-313,1
-314,1
-315,0
-316,0
-317,0
-318,0
-319,0
-320,0
-321,0
-322,0
-323,1
-324,0
-325,1
-326,0
-327,0
-328,0
-329,1
-330,0
-331,0
-332,1
-333,0
-334,0
-335,0
-336,0
-337,0
-338,0
-339,0
-340,0
-341,0
-342,1
-343,0
-344,1
-345,0
-346,1
-347,0
-348,1
-349,1
-350,0
-351,0
-352,0
-353,1
-354,0
-355,1
-356,0
-357,0
-358,1
-359,0
-360,1
-361,1
-362,0
-363,1
-364,0
-365,0
-366,1
-367,1
-368,0
-369,0
-370,1
-371,0
-372,0
-373,1
-374,1
-375,0
-376,0
-377,0
-378,0
-379,0
-380,0
-381,1
-382,1
-383,0
-384,1
-385,0
-386,0
-387,0
-388,0
-389,1
-390,1
-391,0
-392,0
-393,0
-394,1
-395,0
-396,1
-397,0
-398,0
-399,1
-400,0
-401,1
-402,1
-403,0
-404,0
-405,0
-406,0
-407,1
-408,1
-409,1
-410,1
-411,1
-412,0
-413,1
-414,0
-415,0
-416,0
+Index,Name,Survived
+0,"Kelly, Mr. James",0
+1,"Wilkes, Mrs. James (Ellen Needs)",0
+2,"Myles, Mr. Thomas Francis",0
+3,"Wirz, Mr. Albert",0
+4,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",1
+5,"Svensson, Mr. Johan Cervin",0
+6,"Connolly, Miss. Kate",1
+7,"Caldwell, Mr. Albert Francis",0
+8,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",1
+9,"Davies, Mr. John Samuel",0
+10,"Ilieff, Mr. Ylio",0
+11,"Jones, Mr. Charles Cresson",0
+12,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",1
+13,"Howard, Mr. Benjamin",0
+14,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",1
+15,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",1
+16,"Keane, Mr. Daniel",0
+17,"Assaf, Mr. Gerios",0
+18,"Ilmakangas, Miss. Ida Livija",1
+19,"Assaf Khalil, Mrs. Mariana (Miriam"")""",1
+20,"Rothschild, Mr. Martin",0
+21,"Olsen, Master. Artur Karl",0
+22,"Flegenheim, Mrs. Alfred (Antoinette)",1
+23,"Williams, Mr. Richard Norris II",1
+24,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",1
+25,"Robins, Mr. Alexander A",0
+26,"Ostby, Miss. Helene Ragnhild",1
+27,"Daher, Mr. Shedid",0
+28,"Brady, Mr. John Bertram",0
+29,"Samaan, Mr. Elias",0
+30,"Louch, Mr. Charles Alexander",0
+31,"Jefferys, Mr. Clifford Thomas",0
+32,"Dean, Mrs. Bertram (Eva Georgetta Light)",0
+33,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",1
+34,"Mock, Mr. Philipp Edmund",0
+35,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",0
+36,"Roth, Miss. Sarah A",1
+37,"Cacic, Miss. Manda",1
+38,"Sap, Mr. Julius",0
+39,"Hee, Mr. Ling",0
+40,"Karun, Mr. Franz",0
+41,"Franklin, Mr. Thomas Parham",0
+42,"Goldsmith, Mr. Nathan",0
+43,"Corbett, Mrs. Walter H (Irene Colvin)",1
+44,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",1
+45,"Peltomaki, Mr. Nikolai Johannes",0
+46,"Chevre, Mr. Paul Romaine",0
+47,"Shaughnessy, Mr. Patrick",0
+48,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",1
+49,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",1
+50,"Smith, Mr. Lucien Philip",0
+51,"Pulbaum, Mr. Franz",0
+52,"Hocking, Miss. Ellen Nellie""""",1
+53,"Fortune, Miss. Ethel Flora",1
+54,"Mangiavacchi, Mr. Serafino Emilio",0
+55,"Rice, Master. Albert",0
+56,"Cor, Mr. Bartol",0
+57,"Abelseth, Mr. Olaus Jorgensen",0
+58,"Davison, Mr. Thomas Henry",0
+59,"Chaudanson, Miss. Victorine",1
+60,"Dika, Mr. Mirko",0
+61,"McCrae, Mr. Arthur Gordon",0
+62,"Bjorklund, Mr. Ernst Herbert",0
+63,"Bradley, Miss. Bridget Delia",1
+64,"Ryerson, Master. John Borie",1
+65,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",1
+66,"Burns, Miss. Mary Delia",1
+67,"Moore, Mr. Clarence Bloomfield",0
+68,"Tucker, Mr. Gilbert Milligan Jr",0
+69,"Fortune, Mrs. Mark (Mary McDougald)",1
+70,"Mulvihill, Miss. Bertha E",1
+71,"Minkoff, Mr. Lazar",0
+72,"Nieminen, Miss. Manta Josefina",1
+73,"Ovies y Rodriguez, Mr. Servando",0
+74,"Geiger, Miss. Amalie",1
+75,"Keeping, Mr. Edwin",1
+76,"Miles, Mr. Frank",0
+77,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",1
+78,"Aldworth, Mr. Charles Augustus",0
+79,"Doyle, Miss. Elizabeth",1
+80,"Boulos, Master. Akar",0
+81,"Straus, Mr. Isidor",0
+82,"Case, Mr. Howard Brown",0
+83,"Demetri, Mr. Marinko",0
+84,"Lamb, Mr. John Joseph",0
+85,"Khalil, Mr. Betros",0
+86,"Barry, Miss. Julia",1
+87,"Badman, Miss. Emily Louisa",1
+88,"O'Donoghue, Ms. Bridget",1
+89,"Wells, Master. Ralph Lester",0
+90,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",1
+91,"Pedersen, Mr. Olaf",0
+92,"Davidson, Mrs. Thornton (Orian Hays)",1
+93,"Guest, Mr. Robert",0
+94,"Birnbaum, Mr. Jakob",1
+95,"Tenglin, Mr. Gunnar Isidor",0
+96,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",1
+97,"Makinen, Mr. Kalle Edvard",0
+98,"Braf, Miss. Elin Ester Maria",1
+99,"Nancarrow, Mr. William Henry",0
+100,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",1
+101,"Weisz, Mr. Leopold",0
+102,"Foley, Mr. William",0
+103,"Johansson Palmquist, Mr. Oskar Leander",0
+104,"Thomas, Mrs. Alexander (Thamine Thelma"")""",1
+105,"Holthen, Mr. Johan Martin",0
+106,"Buckley, Mr. Daniel",0
+107,"Ryan, Mr. Edward",0
+108,"Willer, Mr. Aaron (Abi Weller"")""",0
+109,"Swane, Mr. George",0
+110,"Stanton, Mr. Samuel Ward",0
+111,"Shine, Miss. Ellen Natalia",1
+112,"Evans, Miss. Edith Corse",1
+113,"Buckley, Miss. Katherine",1
+114,"Straus, Mrs. Isidor (Rosalie Ida Blun)",1
+115,"Chronopoulos, Mr. Demetrios",0
+116,"Thomas, Mr. John",0
+117,"Sandstrom, Miss. Beatrice Irene",1
+118,"Beattie, Mr. Thomson",0
+119,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",1
+120,"Watt, Miss. Bertha J",1
+121,"Kiernan, Mr. John",0
+122,"Schabert, Mrs. Paul (Emma Mock)",1
+123,"Carver, Mr. Alfred John",0
+124,"Kennedy, Mr. John",0
+125,"Cribb, Miss. Laura Alice",1
+126,"Brobeck, Mr. Karl Rudolf",0
+127,"McCoy, Miss. Alicia",1
+128,"Bowenur, Mr. Solomon",0
+129,"Petersen, Mr. Marius",0
+130,"Spinner, Mr. Henry John",0
+131,"Gracie, Col. Archibald IV",0
+132,"Lefebre, Mrs. Frank (Frances)",1
+133,"Thomas, Mr. Charles P",0
+134,"Dintcheff, Mr. Valtcho",0
+135,"Carlsson, Mr. Carl Robert",0
+136,"Zakarian, Mr. Mapriededer",0
+137,"Schmidt, Mr. August",0
+138,"Drapkin, Miss. Jennie",1
+139,"Goodwin, Mr. Charles Frederick",0
+140,"Goodwin, Miss. Jessie Allis",0
+141,"Daniels, Miss. Sarah",1
+142,"Ryerson, Mr. Arthur Larned",0
+143,"Beauchamp, Mr. Henry James",0
+144,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",0
+145,"Vander Planke, Mr. Julius",0
+146,"Hilliard, Mr. Herbert Henry",0
+147,"Davies, Mr. Evan",0
+148,"Crafton, Mr. John Bertram",0
+149,"Lahtinen, Rev. William",0
+150,"Earnshaw, Mrs. Boulton (Olive Potter)",1
+151,"Matinoff, Mr. Nicola",0
+153,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",1
+154,"Asplund, Master. Filip Oscar",0
+155,"Duquemin, Mr. Joseph",0
+156,"Bird, Miss. Ellen",1
+157,"Lundin, Miss. Olga Elida",1
+158,"Borebank, Mr. John James",0
+159,"Peacock, Mrs. Benjamin (Edith Nile)",1
+160,"Smyth, Miss. Julia",1
+161,"Touma, Master. Georges Youssef",0
+162,"Wright, Miss. Marion",1
+163,"Pearce, Mr. Ernest",0
+164,"Peruschitz, Rev. Joseph Maria",0
+165,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",1
+166,"Brandeis, Mr. Emil",0
+167,"Ford, Mr. Edward Watson",0
+168,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",1
+169,"Hellstrom, Miss. Hilda Maria",1
+170,"Lithman, Mr. Simon",0
+171,"Zakarian, Mr. Ortin",0
+172,"Dyker, Mr. Adolf Fredrik",0
+173,"Torfa, Mr. Assad",0
+174,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",0
+175,"Brown, Miss. Edith Eileen",1
+176,"Sincock, Miss. Maude",1
+177,"Stengel, Mr. Charles Emil Henry",0
+178,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",1
+179,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",1
+180,"McCrie, Mr. James Matthew",0
+181,"Compton, Mr. Alexander Taylor Jr",0
+182,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",1
+183,"Lane, Mr. Patrick",0
+184,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",1
+185,"Maybery, Mr. Frank Hubert",0
+186,"Phillips, Miss. Alice Frances Louisa",1
+187,"Davies, Mr. Joseph",0
+188,"Sage, Miss. Ada",0
+189,"Veal, Mr. James",0
+190,"Angle, Mr. William A",0
+191,"Salomon, Mr. Abraham L",0
+192,"van Billiard, Master. Walter John",0
+193,"Lingane, Mr. John",0
+194,"Drew, Master. Marshall Brines",0
+195,"Karlsson, Mr. Julius Konrad Eugen",0
+196,"Spedden, Master. Robert Douglas",1
+197,"Nilsson, Miss. Berta Olivia",1
+198,"Baimbrigge, Mr. Charles Robert",0
+199,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",1
+200,"Murphy, Miss. Nora",1
+201,"Danbom, Master. Gilbert Sigvard Emanuel",0
+202,"Astor, Col. John Jacob",1
+203,"Quick, Miss. Winifred Vera",1
+204,"Andrew, Mr. Frank Thomas",0
+205,"Omont, Mr. Alfred Fernand",0
+206,"McGowan, Miss. Katherine",1
+207,"Collett, Mr. Sidney C Stuart",0
+208,"Rosenbaum, Miss. Edith Louise",1
+209,"Delalic, Mr. Redjo",0
+210,"Andersen, Mr. Albert Karvin",0
+211,"Finoli, Mr. Luigi",0
+212,"Deacon, Mr. Percy William",0
+213,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",1
+214,"Andersson, Miss. Ida Augusta Margareta",0
+215,"Head, Mr. Christopher",0
+216,"Mahon, Miss. Bridget Delia",1
+217,"Wick, Mr. George Dennick",0
+218,"Widener, Mrs. George Dunton (Eleanor Elkins)",1
+219,"Thomson, Mr. Alexander Morrison",0
+220,"Duran y More, Miss. Florentina",1
+221,"Reynolds, Mr. Harold J",0
+222,"Cook, Mrs. (Selena Rogers)",1
+223,"Karlsson, Mr. Einar Gervasius",0
+224,"Candee, Mrs. Edward (Helen Churchill Hungerford)",1
+225,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",1
+226,"Asplund, Mr. Johan Charles",0
+227,"McNeill, Miss. Bridget",1
+228,"Everett, Mr. Thomas James",0
+229,"Hocking, Mr. Samuel James Metcalfe",0
+230,"Sweet, Mr. George Frederick",0
+231,"Willard, Miss. Constance",1
+232,"Wiklund, Mr. Karl Johan",0
+233,"Linehan, Mr. Michael",0
+234,"Cumings, Mr. John Bradley",0
+235,"Vendel, Mr. Olof Edvin",0
+236,"Warren, Mr. Frank Manley",0
+237,"Baccos, Mr. Raffull",0
+238,"Hiltunen, Miss. Marta",1
+239,"Douglas, Mrs. Walter Donald (Mahala Dutton)",1
+240,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",1
+241,"Christy, Mrs. (Alice Frances)",1
+242,"Spedden, Mr. Frederic Oakley",0
+243,"Hyman, Mr. Abraham",0
+244,"Johnston, Master. William Arthur Willie""""",0
+245,"Kenyon, Mr. Frederick R",0
+246,"Karnes, Mrs. J Frank (Claire Bennett)",1
+247,"Drew, Mr. James Vivian",0
+248,"Hold, Mrs. Stephen (Annie Margaret Hill)",1
+249,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",1
+250,"West, Miss. Barbara J",1
+251,"Abrahamsson, Mr. Abraham August Johannes",0
+252,"Clark, Mr. Walter Miller",1
+253,"Salander, Mr. Karl Johan",0
+254,"Wenzel, Mr. Linhart",0
+255,"MacKay, Mr. George William",0
+256,"Mahon, Mr. John",0
+257,"Niklasson, Mr. Samuel",0
+258,"Bentham, Miss. Lilian W",1
+259,"Midtsjo, Mr. Karl Albert",0
+260,"de Messemaeker, Mr. Guillaume Joseph",0
+261,"Nilsson, Mr. August Ferdinand",0
+262,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",1
+263,"Klasen, Miss. Gertrud Emilia",1
+264,"Portaluppi, Mr. Emilio Ilario Giuseppe",0
+265,"Lyntakoff, Mr. Stanko",0
+266,"Chisholm, Mr. Roderick Robert Crispin",0
+267,"Warren, Mr. Charles William",0
+268,"Howard, Miss. May Elizabeth",1
+269,"Pokrnic, Mr. Mate",0
+270,"McCaffry, Mr. Thomas Francis",0
+271,"Fox, Mr. Patrick",0
+272,"Clark, Mrs. Walter Miller (Virginia McDowell)",1
+273,"Lennon, Miss. Mary",1
+274,"Saade, Mr. Jean Nassr",0
+275,"Bryhl, Miss. Dagmar Jenny Ingeborg ",1
+276,"Parker, Mr. Clifford Richard",0
+277,"Faunthorpe, Mr. Harry",0
+278,"Ware, Mr. John James",0
+279,"Oxenham, Mr. Percy Thomas",0
+280,"Oreskovic, Miss. Jelka",1
+281,"Peacock, Master. Alfred Edward",0
+282,"Fleming, Miss. Honora",1
+283,"Touma, Miss. Maria Youssef",1
+284,"Rosblom, Miss. Salli Helena",1
+285,"Dennis, Mr. William",0
+286,"Franklin, Mr. Charles (Charles Fardon)",0
+287,"Snyder, Mr. John Pillsbury",0
+288,"Mardirosian, Mr. Sarkis",0
+289,"Ford, Mr. Arthur",0
+290,"Rheims, Mr. George Alexander Lucien",0
+291,"Daly, Miss. Margaret Marcella Maggie""""",1
+292,"Nasr, Mr. Mustafa",0
+293,"Dodge, Dr. Washington",0
+294,"Wittevrongel, Mr. Camille",0
+295,"Angheloff, Mr. Minko",0
+296,"Laroche, Miss. Louise",1
+297,"Samaan, Mr. Hanna",0
+298,"Loring, Mr. Joseph Holland",0
+299,"Johansson, Mr. Nils",0
+300,"Olsson, Mr. Oscar Wilhelm",0
+301,"Malachard, Mr. Noel",0
+302,"Phillips, Mr. Escott Robert",0
+303,"Pokrnic, Mr. Tome",0
+304,"McCarthy, Miss. Catherine Katie""""",1
+305,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",1
+306,"Allison, Mr. Hudson Joshua Creighton",0
+307,"Aks, Master. Philip Frank",0
+308,"Hays, Mr. Charles Melville",0
+309,"Hansen, Mrs. Claus Peter (Jennie L Howard)",0
+310,"Cacic, Mr. Jego Grga",0
+311,"Vartanian, Mr. David",0
+312,"Sadowitz, Mr. Harry",0
+313,"Carr, Miss. Jeannie",1
+314,"White, Mrs. John Stuart (Ella Holmes)",1
+315,"Hagardon, Miss. Kate",1
+316,"Spencer, Mr. William Augustus",0
+317,"Rogers, Mr. Reginald Harry",0
+318,"Jonsson, Mr. Nils Hilding",0
+319,"Jefferys, Mr. Ernest Wilfred",0
+320,"Andersson, Mr. Johan Samuel",0
+321,"Krekorian, Mr. Neshan",0
+322,"Nesson, Mr. Israel",0
+323,"Rowe, Mr. Alfred G",0
+324,"Kreuchen, Miss. Emilie",1
+325,"Assam, Mr. Ali",0
+326,"Becker, Miss. Ruth Elizabeth",1
+327,"Rosenshine, Mr. George (Mr George Thorne"")""",0
+328,"Clarke, Mr. Charles Valentine",0
+329,"Enander, Mr. Ingvar",0
+330,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",1
+331,"Dulles, Mr. William Crothers",0
+332,"Thomas, Mr. Tannous",0
+333,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",1
+334,"Cor, Mr. Ivan",0
+335,"Maguire, Mr. John Edward",0
+336,"de Brito, Mr. Jose Joaquim",0
+337,"Elias, Mr. Joseph",0
+338,"Denbury, Mr. Herbert",0
+339,"Betros, Master. Seman",0
+340,"Fillbrook, Mr. Joseph Charles",0
+341,"Lundstrom, Mr. Thure Edvin",0
+342,"Sage, Mr. John George",0
+343,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",1
+344,"van Billiard, Master. James William",0
+345,"Abelseth, Miss. Karen Marie",1
+346,"Botsford, Mr. William Hull",0
+347,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",1
+348,"Giles, Mr. Ralph",0
+349,"Walcroft, Miss. Nellie",1
+350,"Greenfield, Mrs. Leo David (Blanche Strouse)",1
+351,"Stokes, Mr. Philip Joseph",0
+352,"Dibden, Mr. William",0
+353,"Herman, Mr. Samuel",0
+354,"Dean, Miss. Elizabeth Gladys Millvina""""",1
+355,"Julian, Mr. Henry Forbes",0
+356,"Brown, Mrs. John Murray (Caroline Lane Lamson)",1
+357,"Lockyer, Mr. Edward",0
+358,"O'Keefe, Mr. Patrick",0
+359,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",1
+360,"Sage, Master. William Henry",0
+361,"Mallet, Mrs. Albert (Antoinette Magnin)",1
+362,"Ware, Mrs. John James (Florence Louise Long)",1
+363,"Strilic, Mr. Ivan",0
+364,"Harder, Mrs. George Achilles (Dorothy Annan)",1
+365,"Sage, Mrs. John (Annie Bullen)",0
+366,"Caram, Mr. Joseph",0
+367,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",1
+368,"Gibson, Mrs. Leonard (Pauline C Boeson)",1
+369,"Pallas y Castello, Mr. Emilio",0
+370,"Giles, Mr. Edgar",0
+371,"Wilson, Miss. Helen Alice",1
+372,"Ismay, Mr. Joseph Bruce",0
+373,"Harbeck, Mr. William H",0
+374,"Dodge, Mrs. Washington (Ruth Vidaver)",1
+375,"Bowen, Miss. Grace Scott",1
+376,"Kink, Miss. Maria",0
+377,"Cotterill, Mr. Henry Harry""""",0
+378,"Hipkins, Mr. William Edward",0
+379,"Asplund, Master. Carl Edgar",0
+380,"O'Connor, Mr. Patrick",0
+381,"Foley, Mr. Joseph",0
+382,"Risien, Mrs. Samuel (Emma)",1
+383,"McNamee, Mrs. Neal (Eileen O'Leary)",1
+384,"Wheeler, Mr. Edwin Frederick""""",0
+385,"Herman, Miss. Kate",1
+386,"Aronsson, Mr. Ernst Axel Algot",0
+387,"Ashby, Mr. John",0
+388,"Canavan, Mr. Patrick",0
+389,"Palsson, Master. Paul Folke",0
+390,"Payne, Mr. Vivian Ponsonby",1
+391,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",1
+392,"Abbott, Master. Eugene Joseph",0
+393,"Gilbert, Mr. William",0
+394,"Kink-Heilmann, Mr. Anton",0
+395,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",1
+396,"Colbert, Mr. Patrick",0
+397,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",1
+398,"Larsson-Rondberg, Mr. Edvard A",0
+399,"Conlon, Mr. Thomas Henry",0
+400,"Bonnell, Miss. Caroline",1
+401,"Gale, Mr. Harry",0
+402,"Gibson, Miss. Dorothy Winifred",1
+403,"Carrau, Mr. Jose Pedro",1
+404,"Frauenthal, Mr. Isaac Gerald",0
+405,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",0
+406,"Ware, Mr. William Jeffery",0
+407,"Widener, Mr. George Dunton",0
+408,"Riordan, Miss. Johanna Hannah""""",1
+409,"Peacock, Miss. Treasteall",1
+410,"Naughton, Miss. Hannah",1
+411,"Minahan, Mrs. William Edward (Lillian E Thorpe)",1
+412,"Henriksson, Miss. Jenny Lovisa",1
+413,"Spector, Mr. Woolf",0
+414,"Oliva y Ocana, Dona. Fermina",1
+415,"Saether, Mr. Simon Sivertsen",0
+416,"Ware, Mr. Frederick",0
+417,"Peter, Master. Michael J",0
